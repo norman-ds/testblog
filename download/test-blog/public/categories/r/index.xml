@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>An other new post </title>
+      <link>/2020/03/02/an-other-new-post/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/02/an-other-new-post/</guid>
+      <description>This is a second post to see, how deployment works with netifly and Github.</description>
+    </item>
+    
+    <item>
       <title>My first post tweets</title>
       <link>/2020/03/02/my-first-post-tweets/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
